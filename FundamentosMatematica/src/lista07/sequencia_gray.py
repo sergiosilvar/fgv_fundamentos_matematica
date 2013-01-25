@@ -1,3 +1,4 @@
+# -*- coding: iso-8859-15 -*-
 '''
 Created on 25/01/2013
 
@@ -7,7 +8,7 @@ Sequencia de Gray
 '''
 
 def gray(quantidade=2):
-    if quantidade <> 2:
+    if quantidade >= 2:
         lista = gray(quantidade-1) 
         listaComZero = []
         listaComUm = []
@@ -22,4 +23,5 @@ def gray(quantidade=2):
     
 
 if __name__ == '__main__':
-    print gray(5)
+    for elemento in gray(10):
+        print elemento
