@@ -1,0 +1,18 @@
+OK - salva imagem do quadrado 0
+OK - salva imagem do quadrado 1
+OK - calcula x,y
+OK - calcula as coordenadas de cada fatia do quadrado 1
+cria uma imagem para cada fatia do quadrado 1, com transparencia
+cria o quadrado 2 baseado no tamanho entre 0 e 1
+cola as fatias do quadrado 1 no quadrado 2,com transparencia
+cola o quadrado 0 no quadrado 1, com transparencia
+
+
+
+
+
+ladrilho
+pegar a matriz
+para cada id da matriz
+	guardar num dict a coord x0y0
+	
