@@ -7,7 +7,7 @@ Created on 25/01/2013
 Sequencia de Gray
 '''
 
-
+    
 
 def gray(quantidade=2):
     if quantidade >= 2:
@@ -25,8 +25,8 @@ def gray(quantidade=2):
     
 
 if __name__ == '__main__':
-# rENTRADA
-    n = 6
+# ENTRADA
+    n = 3
 
 # INICIO DO PROGRAMA    
     arquivo = ".\\saida\\gray_n_%s.txt" %(n)

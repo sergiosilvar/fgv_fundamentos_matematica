@@ -1,7 +1,6 @@
 '''
-Created on 27/01/2013
-
-@author: sergio
+FUNDAMENTOS DA MATEMATICA - JAN/2013
+Aluno: Sergio da Silva Rodrigues
 
 Meu monitor:    29,3 cm x 16,5 cm
                 1366 px x 768 px
@@ -11,8 +10,8 @@ Meu monitor:    29,3 cm x 16,5 cm
                 ~ 118 px/"
 '''
 
-from numpy.lib.scimath import sqrt
 import figuras
+from numpy.lib.scimath import sqrt
 from test.test_multiprocessing import sqr
 import Image
 import ImageDraw

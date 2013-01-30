@@ -209,11 +209,11 @@ def executar(n, coordenada_Bill):
 
 
 if __name__ == '__main__':
-#    executar(1,(0,1))
+    executar(5,(16,16))
 #    executar(1, (1, 0))
 #    executar(2, (3, 2))
 #    executar(3, (1, 5))
-    executar(4, (11, 11))
+#    executar(4, (2, 2))
 #    executar(5, (23, 17))
     print("FIM DO PROGRAMA.")    
 

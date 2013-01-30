@@ -1,3 +1,12 @@
+
+Meu monitor:    29,3 cm x 16,5 cm
+                1366 px x 768 px
+                11" x 6,5"
+                13,2" diagonal
+                ~ 46 px/cm
+                ~ 118 px/"
+
+
 OK - salva imagem do quadrado 0
 OK - salva imagem do quadrado 1
 OK - calcula x,y
