@@ -25,13 +25,15 @@ def gray(quantidade=2):
     
 
 if __name__ == '__main__':
-# ENTRADA
-    n = 1
+# rENTRADA
+    n = 6
 
 # INICIO DO PROGRAMA    
-    f = open(".\\saida\\gray_n_%s.txt" %(n),"w")
+    arquivo = ".\\saida\\gray_n_%s.txt" %(n)
+    f = open(arquivo,"w")
     codigo= gray(n)
     for i in codigo:
         f.write(i+'\n')
     f.close()
+    print "Arquivo criado em " + arquivo
     print "FIM DO PROGRAMA"
